@@ -1,0 +1,15 @@
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/bin/Debug/net5.0/RequestTester.deps.json
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/bin/Debug/net5.0/RequestTester.runtimeconfig.json
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/bin/Debug/net5.0/RequestTester.runtimeconfig.dev.json
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/bin/Debug/net5.0/RequestTester.dll
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/bin/Debug/net5.0/ref/RequestTester.dll
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/bin/Debug/net5.0/RequestTester.pdb
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/obj/Debug/net5.0/RequestTester.csproj.AssemblyReference.cache
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/obj/Debug/net5.0/RequestTester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/obj/Debug/net5.0/RequestTester.AssemblyInfoInputs.cache
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/obj/Debug/net5.0/RequestTester.AssemblyInfo.cs
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/obj/Debug/net5.0/RequestTester.csproj.CoreCompileInputs.cache
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/obj/Debug/net5.0/RequestTester.dll
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/obj/Debug/net5.0/ref/RequestTester.dll
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/obj/Debug/net5.0/RequestTester.pdb
+/Users/jthurling/RiderProjects/RequestTester/RequestTester/obj/Debug/net5.0/RequestTester.genruntimeconfig.cache
